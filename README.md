@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sawera Ansar
 
-<!--
-**SaweraAnsar/SaweraAnsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+BS Biochemistry Student interested in research, data analysis, and scientific learning.
 
-Here are some ideas to get you started:
+## Skills
+- Research Methodology
+- Basic Statistics
+- Data Analysis
+- Microsoft Excel
+- Microsoft Word
+- Scientific Writing
+- Literature Review
+- Critical Thinking
+- Communication Skills
+- Teamwork
+- Time Management
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Currently learning GitHub and building my professional profile.
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/sawera-ansar-08763137b
